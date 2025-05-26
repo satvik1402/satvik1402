@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/9d7f771b-0ed8-4150-9e15-15e34215aaef)
+![github-header-image (5)](https://github.com/user-attachments/assets/21142eba-6b31-457a-9621-70a85c16f89f)
 
 <h1 align="center">Hi, I'm Satvik Verma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
