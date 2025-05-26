@@ -1,5 +1,4 @@
-![Header](./github-header-image%20(1).png)
-
+![github-header-image (1)](https://github.com/user-attachments/assets/186516a2-ad20-41f7-add5-db89aeea39d3)
 
 <h1 align="center">Hi, I'm Satvik Verma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
