@@ -1,4 +1,5 @@
-![Header](./github-header-image (1))
+![Header](./github-header-image%20(1).png)
+
 
 <h1 align="center">Hi, I'm Satvik Verma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
