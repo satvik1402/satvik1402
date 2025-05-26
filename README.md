@@ -14,8 +14,6 @@ Outside of coding, I love playing chess and cricket—both keep me sharp and gro
 
 - 📫 How to reach me **satvikverma123456@gmail.com**
 
-- 📄Checkout My Resume [https://drive.google.com/file/d/1b3VHSnTgaNPcpjwSJqFD-S-PfDrswov_/view?usp=drive_link](https://drive.google.com/file/d/1b3VHSnTgaNPcpjwSJqFD-S-PfDrswov_/view?usp=drive_link)
-
 - ⚡Fun Fact **Oh great, another error! Because my code just loves to keep me company at 2 AM. Who needs sleep anyway?**
 
 <h3 align="left">Connect with me:</h3>
