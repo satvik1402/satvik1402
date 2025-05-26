@@ -1,3 +1,5 @@
+![Header](./"C:\Users\hp\Downloads\github-header-image (1).png")
+
 <h1 align="center">Hi, I'm Satvik Verma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 Hi there! I’m Satvik Verma, a curious and passionate software developer who loves turning ideas into real, usable tech. I enjoy working across the stack—whether it's building responsive interfaces with React and Tailwind CSS, or writing efficient backend logic using Java, and Flask. I’ve developed everything from smart room booking systems for colleges to code plagiarism detectors that help maintain academic integrity.
