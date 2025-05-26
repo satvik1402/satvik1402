@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Satvik Verma</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
+Hi there! I’m Satvik Verma, a curious and passionate software developer who loves turning ideas into real, usable tech. I enjoy working across the stack—whether it's building responsive interfaces with React and Tailwind CSS, or writing efficient backend logic using Java, and Flask. I’ve developed everything from smart room booking systems for colleges to code plagiarism detectors that help maintain academic integrity.
+
+What really drives me is solving meaningful problems. I like thinking through the logic, connecting the dots, and building tools that actually make things easier for people. Along the way, I’ve picked up experience with databases, APIs and project planning, and I’m always eager to learn something new.
+
+Outside of coding, I love playing chess and cricket—both keep me sharp and grounded. I’m also a bit of a Google surfer; you’ll often find me deep in a tech blog, exploring new frameworks, or figuring out how something works just for fun. For me, tech isn’t just a career—it’s a creative space where I get to build, explore, and keep growing.
 
 - 🌱 I’m currently learning **React JS**
 
