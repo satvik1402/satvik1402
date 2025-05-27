@@ -28,7 +28,6 @@ Outside of coding, I love playing chess and cricket—both keep me sharp and gro
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satvik1402&show_icons=true&locale=en" alt="satvik1402" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satvik1402&" alt="satvik1402" /></p>
 
 
 
